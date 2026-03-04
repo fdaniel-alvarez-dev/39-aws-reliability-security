@@ -1,4 +1,4 @@
-# 39-everops-devops-engineer
+# 39-data-governance-example
 
 A reference data platform blueprint with pragmatic governance: quality checks, lineage, access controls, and CI for data assets.
 
